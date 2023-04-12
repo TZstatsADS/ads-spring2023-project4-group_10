@@ -5,7 +5,7 @@
 Term: Spring 2023
 
 + Team 10
-+ Projec title: Algorithm implementation and evaluation
++ Projec title: Machine Learning Fairness Algorithm implementation and evaluation
 + Team members
 	+ Huang, Zhi zh2536@columbia.edu
 	+ Mckenzie, Nixon nnm2132@columbia.edu
